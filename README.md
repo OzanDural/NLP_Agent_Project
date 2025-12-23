@@ -23,8 +23,6 @@ This project transforms a standard LLM into an intelligent decision-support syst
 - **`ReAct_Agent.ipynb`**: The main Python notebook containing the Agent logic, RAG engine, and Tool definitions.
 - **`aircraft_dataset.txt`**: The knowledge base file containing technical limits for Boeing 737, Airbus A320, and Cessna 172.
 - **`requirements.txt`**: List of Python dependencies required to run the project.
-- **`Project_Report.pdf`**: Detailed academic report covering the methodology, architecture diagram, and test scenarios.
-
 ---
 
 ## 🛠️ Tools & Technologies
