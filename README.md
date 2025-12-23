@@ -35,4 +35,6 @@ This project transforms a standard LLM into an intelligent decision-support syst
 | **Language** | **Python 3.10+** | Core programming language. |
 
 ---
+## Architecture Diagram: 
 <img width="2065" height="1160" alt="diagram_agent" src="https://github.com/user-attachments/assets/b13d3c19-7e56-40e7-9cb2-1b667092a480" />
+---
