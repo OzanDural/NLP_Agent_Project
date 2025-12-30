@@ -1,15 +1,4 @@
-UCAK TIPI: BOEING 737
-KURAL: Maksimum yan ruzgar (crosswind) limiti 35 km/s.
-GORUS: Inis icin gorus mesafesi en az 800 metre olmalidir.
-
-UCAK TIPI: AIRBUS A320
-KURAL: Maksimum yan ruzgar limiti 38 km/s.
-GORUS: Inis icin gorus mesafesi en az 500 metre olmalidir.
-SICAKLIK: 50 derece uzerindeki sicakliklarda kalkis performansi duser.
-
-UCAK TIPI: CESSNA 172 (Egitim Ucagi)
-KURAL: Maksimum ruzgar limiti 15 km/s.
-YAGIS: Yogun yagmurda ve buzlanma riskinde ucus yasaktir.
-
-HAVALIMANI: ISTANBUL (IST)
-PIST: 35R pisti ruzgarli havalarda pas gecme riski tasir.
+UCAK TIPI: BOEING 737 - Maksimum ruzgar limiti 35 km/s - Inis gorus mesafesi 800 metre
+UCAK TIPI: AIRBUS A320 - Maksimum ruzgar limiti 38 km/s - Inis gorus mesafesi 500 metre
+UCAK TIPI: CESSNA 172 - Maksimum ruzgar limiti 15 km/s - Yogun yagmur yasak
+YAKIT FIYATI: Havacılık yakıtı (Avgas) galon fiyatı 6 USD
