@@ -6,7 +6,7 @@ This project transforms a static Language Model into an **Autonomous ReAct Agent
 
 ## 🎯 Project Goal
 The primary objective is to assist flight dispatchers in verifying safety limits and calculating operational costs. Unlike a standard LLM, this agent follows the **Thought -> Action -> Observation** cycle to ensure every decision is backed by technical data or live environmental conditions.
-##Key Features
+## Key Features
 -ReAct Reasoning: Uses the "Reasoning and Acting" framework to decompose complex aviation queries into logical steps.
 
 -Custom RAG Engine: A built-from-scratch Retrieval-Augmented Generation system using Cosine Similarity and TF-IDF style vectorization.
